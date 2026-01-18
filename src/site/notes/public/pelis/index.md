@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/pelis/index/","title":"Inicio"}
+{"dg-publish":true,"permalink":"/public/pelis/index/","title":"Inicio","tags":["gardenEntry"]}
 ---
 
 ---
