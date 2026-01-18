@@ -5,3 +5,7 @@
 Mi Videoteca
 Si ves esto, Quartz está funcionando correctamente.
 
+##otras notas
+- [[public/pelis/prueba compu\|prueba compu]]
+- 
+- 
